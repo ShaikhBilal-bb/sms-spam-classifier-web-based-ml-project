@@ -1,1 +1,2 @@
-# sms-spam-classifier-web-based-ml-project
+# email-spam-classifier-new
+End to end code for the email spam classifier project
